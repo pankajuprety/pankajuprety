@@ -1,5 +1,5 @@
-##Pankaj Uprety
-[![Linkedin logo image link](https://media1.tenor.com/images/4e7e409f3943464689177a2b5179ce6e/tenor.gif?itemid=16387503/logo.gif)](https://www.linkedin.com/in/pankaj-uprety-14101b10b/)
+## Pankaj Uprety
+[![DevIncept logo image link](https://www.google.com/imgres?imgurl=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FColor-of-the-LinkedIn-Logo.jpg&imgrefurl=https%3A%2F%2F1000logos.net%2Flinkedin-logo%2F&tbnid=zx6KsuNdC0-svM&vet=12ahUKEwjuqs6O1fTrAhVsnUsFHaWiCKAQMygLegUIARDbAQ..i&docid=3FpbkJ-6G3UCBM&w=1300&h=1026&q=linkedin%20logo&ved=2ahUKEwjuqs6O1fTrAhVsnUsFHaWiCKAQMygLegUIARDbAQ)](https://www.linkedin.com/in/pankaj-uprety-14101b10b/)
 ### Hi there 👋
 ```
 I am Pankaj Upretyi. My main interest lies in Machine Learning,DataScience,AI,Python:

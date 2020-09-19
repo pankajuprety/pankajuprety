@@ -1,3 +1,5 @@
+##Pankaj Uprety
+[![Linkedin logo image link](https://media1.tenor.com/images/4e7e409f3943464689177a2b5179ce6e/tenor.gif?itemid=16387503/logo.gif)](https://www.linkedin.com/in/pankaj-uprety-14101b10b/)
 ### Hi there 👋
 ```
 I am Pankaj Upretyi. My main interest lies in Machine Learning,DataScience,AI,Python:

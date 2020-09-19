@@ -1,5 +1,6 @@
 ## Pankaj Uprety
-[![LinkedIn logo image link](https://i1.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?fit=200%2C500&ssl=1)](https://www.linkedin.com/in/pankaj-uprety-14101b10b/)
+[![LinkedIn logo image link](https://i1.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?fit=100%2C500&ssl=1)](https://www.linkedin.com/in/pankaj-uprety-14101b10b/)
+[![Gmail logo image link](https://media2.giphy.com/media/aOften89vRbG/giphy.gif?fit=100%2C500&ssl=1)](https://www.pankaj.uprety2000@gmail.com/)
 ### Hi there 👋
 ```
 I am Pankaj Upretyi. My main interest lies in Machine Learning,DataScience,AI,Python:
